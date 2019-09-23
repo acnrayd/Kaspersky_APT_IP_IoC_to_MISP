@@ -1,0 +1,40 @@
+{
+    "Event": {
+        "id": "563",
+        "orgc_id": "1",
+        "org_id": "1",
+        "date": "2019-09-23",
+        "threat_level_id": "4",
+        "info": "Test",
+        "published": false,
+        "uuid": "5d87f110-dd48-4f80-8bcf-0d84c0a802ae",
+        "attribute_count": "0",
+        "analysis": "0",
+        "timestamp": "1569190160",
+        "distribution": "1",
+        "proposal_email_lock": false,
+        "locked": false,
+        "publish_timestamp": "0",
+        "sharing_group_id": "0",
+        "disable_correlation": false,
+        "extends_uuid": "",
+        "event_creator_email": "admin@admin.test",
+        "Org": {
+            "id": "1",
+            "name": "ORGNAME",
+            "uuid": "5d836a9c-3390-4042-a200-0ca44e941be6",
+            "local": true
+        },
+        "Orgc": {
+            "id": "1",
+            "name": "ORGNAME",
+            "uuid": "5d836a9c-3390-4042-a200-0ca44e941be6",
+            "local": true
+        },
+        "Attribute": [],
+        "ShadowAttribute": [],
+        "RelatedEvent": [],
+        "Galaxy": [],
+        "Object": []
+    }
+}
